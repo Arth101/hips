@@ -1,6 +1,6 @@
 ---
-layout: base
-title:  "Welcome to Jekyll!"
+layout: post
+title:  "Please work!"
 date:   2016-11-30 13:04:32 +0100
 categories: jekyll update
 ---
