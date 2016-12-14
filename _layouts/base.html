@@ -3,19 +3,13 @@
   <head>
     <meta charset="utf-8">
     <title>heeh</title>
+    <link rel="stylesheet" href="/css/styles.css" media="screen" title="no title" charset="utf-8">
   </head>
   <body>
-    {% include header.html %}
-    {{content}}
-
-    <ul>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
-
+    <main>
+      {% include header.html %}
+      {{content}}
+    </main>
     {% include footer.html %}
   </body>
 </html>

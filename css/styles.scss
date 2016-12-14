@@ -1,0 +1,35 @@
+---
+---
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+header, footer {
+  background: seagreen;
+  padding: 10px;
+  color: white;
+
+  h1 {
+    margin: 0;
+    font-family: monospace;
+    letter-spacing: 4px;
+    text-align: center;
+  }
+}
