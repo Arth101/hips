@@ -2,11 +2,20 @@
 layout: base
 ---
 
-<section>
-  {% for post in site.posts %}
-    <div>
-      <img src="{{post.image}}">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </div>
+<h1>camo</h1>
+
+<section class="catalog">
+
+  {% for camo in site.camo %}
+
+      <div class="card">
+        <div class="card-title">
+          <h2>{{ camo.title }}</h2>
+        </div>
+        <div class="card-content">
+          <a href="{{ camo.url }}">Link</a>
+        </div>
+      </div>
+
   {% endfor %}
 </section>
