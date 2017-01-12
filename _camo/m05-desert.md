@@ -1,8 +1,8 @@
 ---
-title:  "AOR2"
-terrain: woodland
-country: USA
-image: aor2.jpg
+title:  "M05 Desert"
+terrain: desert
+country: Finland
+image: m05-desert.jpg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
