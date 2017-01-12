@@ -57,7 +57,7 @@ header, footer {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin: 0 auto;
+  margin: 0 2px;
 }
 
 .content {
@@ -67,25 +67,30 @@ header, footer {
 }
 
 .card {
+  display: flex;
   position: relative;
   overflow: hidden;
-  margin: 8px;
-  width: calc(20% - 16px);
-  height: 150px;
-  display: flex;
-  flex-direction: column;
+  margin: 2px;
+  width: calc(16.66% - 4px);
+  height: auto;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
   @media(max-width: 1200px) {
-    width: calc(25% - 16px);
+    width: calc(20% - 4px);
   }
   @media(max-width: 900px) {
-    width: calc(33.33% - 16px);
+    width: calc(33.33% - 4px);
   }
   @media(max-width: 600px) {
-    width: calc(50% - 16px);
+    width: calc(50% - 4px);
   }
-  @media(max-width: 400px) {
-    width: 100%;
+  // @media(max-width: 400px) {
+  //   width: 100%;
+  // }
+
+  &::before {
+    content:'';
+    float:left;
+    padding-top:100%;
   }
 
   a {
