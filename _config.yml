@@ -26,7 +26,6 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
 exclude:
@@ -35,6 +34,9 @@ exclude:
 
 collections:
   camo:
+    output: true
+    permalink: /camo/:path/
+  m_redirects:
     output: true
     permalink: /camo/:path/
 
