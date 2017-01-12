@@ -8,8 +8,11 @@ layout: base
 
       <div class="card">
         <a href="{{ camo.url }}">
-          <h2>{{ camo.title }}</h2>
-          <div class="card-title" style="background-image:url('{{ site.baseurl }}/img/{{ camo.image }}')">
+          <div class="card-description">
+            <h2>{{ camo.title }}</h2>
+            <p>{{ camo.country }}</p>
+          </div>
+          <div class="card-title" style="background-image:linear-gradient( rgba(0, 0, 0, 0.9), rgba(240, 109, 6, 0) ), url('{{ site.baseurl }}/img/{{ camo.image }}')">
           </div>
         </a>
         <!-- <div class="card-content">
