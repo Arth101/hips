@@ -1,6 +1,6 @@
 ---
-title:  "Universal Camouflage Pattern"
-terrain: Desert
+title:  "UCP"
+terrain: desert
 country: USA
 image: ucp.jpg
 ---

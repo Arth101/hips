@@ -1,5 +1,5 @@
 ---
-title:  "Disruptive Pattern Material"
+title:  "DPM"
 terrain: woodland
 country: UK
 image: dpm.jpg
