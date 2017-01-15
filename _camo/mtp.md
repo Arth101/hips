@@ -1,5 +1,5 @@
 ---
-title:  "Multi-terrain pattern"
+title:  "MTP"
 terrain: woodland
 country: UK
 image: mtp.jpg
