@@ -1,0 +1,47 @@
+header, footer {
+  padding: 10px;
+  color: white;
+  text-align: center;
+
+  h1 {
+    display: block;
+    font-size: 2.2em;
+    transition: all 0.3s;
+    margin: 0;
+    font-family: 'Source Code Pro', monospace;
+    letter-spacing: 1px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+    &:hover {
+      color: rgba(255, 255, 255, 1);
+    }
+  }
+
+  h2 {
+    display: inline-block;
+    letter-spacing: 4px;
+    text-align: center;
+    margin: 0;
+    color: rgb(255, 255, 255);
+    font-family: 'Source Code Pro', monospace;
+    font-size: 1.2em;
+    position: relative;
+    transform: rotate(3deg);
+    bottom: 6px;
+    span {
+      background: black;
+      padding: 4px 15px;
+    }
+  }
+
+  h2+h2 {
+    transform: rotate(-1deg);
+    display: block;
+    top: 5px;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}

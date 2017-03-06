@@ -1,5 +1,6 @@
 ---
 title:  "AMCU"
+fullname: Australian Multicam Uniform
 terrain: woodland
 country: Australia
 image: amcu.jpg

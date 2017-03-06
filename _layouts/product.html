@@ -1,8 +1,26 @@
----
-layout: base
----
-
-<div class="content">
-  <h1>{{page.title}}</h1>
-  {{content}}
-</div>
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <main>
+      <div class="post">
+        <a class="back" href="{{ site.baseurl }}/">&larr; Back to menu</a>
+        <div class="cover" style="background-image:linear-gradient( rgba(0, 0, 0, 0.9), rgba(240, 109, 6, 0) ), url('{{ site.baseurl }}/img/{% if page.cover %}covers/{{ page.cover }}{% else %}{{ page.image }}{% endif %}')">
+          <header>
+            <h1>{{page.title}}</h1>
+            {% if page.fullname %}
+              <h2><span>{{page.fullname}}</span></h2>
+            {% endif %}
+            {% if page.nickname %}
+              <h2><span>AKA: {{page.nickname}}</span></h2>
+            {% endif %}
+          </header>
+        </div>
+        <div class="content">
+          {{content}}
+        </div>
+      </div>
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
