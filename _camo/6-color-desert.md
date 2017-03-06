@@ -1,9 +1,10 @@
 ---
-title:  "6-color-desert"
+title: 6-color-desert
 nickname: Chocolate-Chip Camouflage
 terrain: desert
 country: USA
 image: 6-color-desert.jpg
+cover: 6-color-desert-cover.jpg
 ---
 The Desert Battle Dress Uniform uses a camouflage pattern known as the Chocolate-Chip Camouflage, Cookie Dough Camouflage, or the Six-Color Desert Pattern. The camouflage received its nickname because it resembles chocolate-chip cookie dough. It is made up of a base pattern of light tan overlaid with broad swathes of pale green and wide two-tone bands of brown. Clusters of black-on-white spots are scattered over, to mimic the appearance of pebbles and their shadows.
 

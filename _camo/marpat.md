@@ -5,6 +5,7 @@ nickname: Digital Woodland Camo
 terrain: woodland
 country: USA
 image: marpat.jpg
+cover: marpat-cover.jpg
 ---
 MARPAT (short for Marine pattern) is a digital camouflage pattern in use with the United States Marine Corps, designed by Timothy O'Neill and introduced between 2002 and 2004 with the Marine Corps Combat Utility Uniform (MCCUU), which replaced the Camouflage Utility Uniform. Its design and concept are based on the Canadian CADPAT pattern. The pattern is formed of small rectangular pixels of color. In theory, it is a far more effective camouflage than standard uniform patterns because it mimics the dappled textures and rough boundaries found in natural settings. It is also known as the "digital pattern" or "digi-cammies" because of its micropattern (pixels) rather than the old macropattern (big blobs).
 
