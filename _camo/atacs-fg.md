@@ -1,10 +1,14 @@
 ---
-title:  "Atacs fg"
+title:  ATACS-FG
+fullname: Advanced Tactical Concealment System Foliage/Green
 terrain: woodland
 country: us
 image: atacs-fg.jpg
 cover: atacs-fg-cover.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+A-TACS FG (Foliage/Green) Camo utilizes numerous shades of green sampled directly from a variety of forested and transitional terrain elements combined with various shades of earth, A-TACS FG Camo was developed to be effective in a wide range of temperate environments.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This pattern is commercial, and not used officially by any the military of any country.
+
+##Sources
+[Camouflage Wiki](http://camouflage.wikia.com/wiki/A-TACS)
