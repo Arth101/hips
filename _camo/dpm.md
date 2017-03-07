@@ -1,10 +1,19 @@
 ---
-title:  "DPM"
+title: DPM
+fullname: Disruptive Pattern Material
+nickname: DPM-95
 terrain: woodland
 country: gb
 image: dpm.jpg
 cover: dpm-cover.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Disruptive Pattern Material (DPM) is the commonly used name of a camouflage pattern used by the British Armed Forces as well as many other armies worldwide, particularly in former British colonies. It is also the field/combat dress camouflage pattern worn by the Indonesian National Armed Forces (TNI).
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The main variants of DPM are a four-colour woodland pattern, and desert patterns in two, three or four colours. The Woodland Pattern DPM was used with the mediumweight No.8 Temperate Combat Dress (c.1966/1968) and lightweight No.9 Tropical Combat Dress (c.1976). The later Desert Pattern DPM (c.late 1980s) was designated the No.5 Desert Combat Dress.
+
+DPM has also been produced in black/white/grey Urban DPM, in various blue tones and even in purples (this last for the Swazi Royal Guard).
+
+DPM has been phased out in British military service, superseded by Multi-Terrain Pattern.
+
+##Sources
+[Wikipedia](https://en.wikipedia.org/wiki/Disruptive_Pattern_Material)
