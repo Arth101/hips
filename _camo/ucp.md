@@ -3,7 +3,7 @@ title:  UCP
 fullname: Universal Camouflage Pattern
 nickname: ACUPAT
 terrain: desert
-country: USA
+country: us
 image: ucp.jpg
 cover: ucp-cover.jpg
 ---

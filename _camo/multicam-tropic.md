@@ -1,7 +1,7 @@
 ---
-title:  "Multicam Tropic"
+title: MultiCam Tropic
 terrain: woodland
-country: USA
+country: us
 image: multicam-tropic.jpg
 cover: multicam-tropic-cover.jpg
 ---

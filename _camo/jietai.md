@@ -1,7 +1,7 @@
 ---
 title:  "Jietai"
 terrain: Woodland
-country: Japan
+country: jp
 image: jietai.jpg
 cover: jietai-cover.jpg
 ---

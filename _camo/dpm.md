@@ -1,7 +1,7 @@
 ---
 title:  "DPM"
 terrain: woodland
-country: UK
+country: gb
 image: dpm.jpg
 cover: dpm-cover.jpg
 ---

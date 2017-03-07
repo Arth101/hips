@@ -1,7 +1,7 @@
 ---
 title:  "Tropentarn"
 terrain: desert
-country: Germany
+country: de
 image: tropentarn.jpg
 cover: tropentarn-cover.jpg
 ---

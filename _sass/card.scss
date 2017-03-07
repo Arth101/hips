@@ -36,13 +36,18 @@
     text-shadow: 1px 2px 13px black;
 
     h2 {
-      font-family: 'Source Code Pro', monospace;
-      font-weight: normal;
+      font-weight: 300;
       margin: 0;
+      margin-bottom: 10px;
     }
 
     p {
       margin-top: 5px;
+    }
+
+    .flag {
+      height: 25px;
+      opacity: 0.8;
     }
   }
 

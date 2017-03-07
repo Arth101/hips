@@ -1,7 +1,7 @@
 ---
 title:  "DPM Desert"
 terrain: Desert
-country: UK
+country: gb
 image: dpm-desert.jpg
 cover: dpm-desert-cover.jpg
 ---

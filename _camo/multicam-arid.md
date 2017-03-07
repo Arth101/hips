@@ -1,7 +1,7 @@
 ---
-title:  "Multicam Arid"
+title: MultiCam Arid
 terrain: desert
-country: USA
+country: us
 image: multicam-arid.jpg
 cover: multicam-arid-cover.jpg
 ---

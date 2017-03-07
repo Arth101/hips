@@ -1,10 +1,12 @@
 ---
-title:  "Desert Night"
+title: Desert Night Camouflage
 terrain: desert
-country: USA
+country: us
 image: desert-night.jpg
 cover: desert-night-cover.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The Desert Night Camouflage pattern is a two-color grid camouflage pattern used by the United States military during the Gulf War. It was designed to aid soldiers in concealment from older generation enemy night vision devices (NVDs). The pattern is now considered obsolete due to the increase in capability of foreign night vision devices.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+During the first Gulf War, clothing sets in this pattern were issued to US troops as an over-jacket (with a removable insulating liner) and over-pants, both being designed to be worn over the issued six-color Desert Battle Dress Uniform during nighttime operations.
+
+No night-specific pattern has been created to replace this gear for nighttime use in a desert environment, as advancements in infrared reflectance technology in first the Desert Camouflage Uniform, and finally the Marine Corps Combat Utility Uniform and Army Combat Uniform have eliminated the need for a separate nighttime overgarment.

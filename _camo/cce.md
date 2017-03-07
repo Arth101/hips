@@ -1,7 +1,7 @@
 ---
 title:  "CCE"
 terrain: woodland
-country: France
+country: fr
 image: cce.jpg
 cover: cce-cover.jpg
 ---

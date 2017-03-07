@@ -1,7 +1,7 @@
 ---
 title:  "Kryptek Mandrake"
 terrain: woodland
-country: USA
+country: us
 image: kryptek-mandrake.jpg
 cover: kryptek-mandrake-cover.jpg
 ---

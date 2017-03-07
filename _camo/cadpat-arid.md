@@ -1,7 +1,7 @@
 ---
 title:  "CADPAT Arid"
 terrain: desert
-country: Canada
+country: ca
 image: cadpat-arid.jpg
 cover: cadpat-arid-cover.jpg
 ---

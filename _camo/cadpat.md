@@ -3,7 +3,7 @@ title:  "CADPAT"
 fullname: Canadian Disruptive Pattern
 nickname: dessin de camouflage canadien, DcamC
 terrain: woodland
-country: Canada
+country: ca
 image: cadpat.jpg
 cover: cadpat-cover.jpg
 ---

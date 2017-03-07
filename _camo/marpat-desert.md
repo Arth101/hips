@@ -1,7 +1,8 @@
 ---
-title:  "MARPAT Desert"
+title:  MARPAT Desert
+nickname: Digital desert camo
 terrain: desert
-country: USA
+country: us
 image: marpat-desert.jpg
 cover: marpat-desert-cover.jpg
 ---

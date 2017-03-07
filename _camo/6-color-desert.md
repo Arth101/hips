@@ -2,7 +2,7 @@
 title: 6-color-desert
 nickname: Chocolate-Chip Camouflage
 terrain: desert
-country: USA
+country: us
 image: 6-color-desert.jpg
 cover: 6-color-desert-cover.jpg
 ---

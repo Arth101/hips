@@ -1,7 +1,7 @@
 ---
 title:  "M05 Desert"
 terrain: desert
-country: Finland
+country: fi
 image: m05-desert.jpg
 cover: m05-desert-cover.jpg
 ---

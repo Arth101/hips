@@ -1,7 +1,7 @@
 ---
 title:  "Kryptek Highlander"
 terrain: woodland
-country: USA
+country: us
 image: kryptek-highlander.jpg
 cover: kryptek-highlander-cover.jpg
 ---

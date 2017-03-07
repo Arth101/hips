@@ -1,7 +1,7 @@
 ---
 title:  "M05 Snow"
 terrain: Snow
-country: Finland
+country: fi
 image: m05-snow.jpg
 cover: m05-snow-cover.jpg
 ---

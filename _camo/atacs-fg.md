@@ -1,7 +1,7 @@
 ---
 title:  "Atacs fg"
 terrain: woodland
-country: USA
+country: us
 image: atacs-fg.jpg
 cover: atacs-fg-cover.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title:  "Flecktarn"
 terrain: desert
-country: Germany
+country: de
 image: flecktarn.jpg
 cover: flecktarn-cover.jpg
 ---
