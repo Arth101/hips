@@ -1,10 +1,12 @@
 ---
-title:  "Tropentarn"
+title: Tropentarn
+nickname: Wüstentarn, Desert flecktarn
 terrain: desert
 country: de
 image: tropentarn.jpg
 cover: tropentarn-cover.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Tropentarn, formerly also called Wüstentarn (German armed forces tropical or desert camouflage), is a camouflage pattern used by the Bundeswehr in arid and semi arid regions. It is the desert variant of Flecktarn. Its official name is 3-Farb-Tarndruck (3-color camouflage print) – Instead of the 5-color scheme of greens, brown, and black of temperate Flecktarn, it uses only three colors: a base color of khaki tan with medium brown and dark green spots.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+##Sources
+[Wikipedia](https://en.wikipedia.org/wiki/Tropentarn)

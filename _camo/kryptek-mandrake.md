@@ -1,5 +1,5 @@
 ---
-title:  "Kryptek Mandrake"
+title: Kryptek Mandrake
 terrain: woodland
 country: us
 image: kryptek-mandrake.jpg

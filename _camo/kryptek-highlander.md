@@ -1,5 +1,5 @@
 ---
-title:  "Kryptek Highlander"
+title: Kryptek Highlander
 terrain: woodland
 country: us
 image: kryptek-highlander.jpg

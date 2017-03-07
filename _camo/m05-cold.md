@@ -1,5 +1,5 @@
 ---
-title:  "M05 Cold Weather"
+title: M05 Cold Weather
 terrain: Snow
 country: fi
 image: m05-cold.jpg
