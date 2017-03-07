@@ -1,5 +1,5 @@
 ---
-title:  "Tigerstripe"
+title: Tigerstripe
 nickname: Tiger Pattern
 terrain: woodland
 country: vn

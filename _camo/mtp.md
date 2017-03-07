@@ -1,5 +1,5 @@
 ---
-title:  "MTP"
+title: MTP
 fullname: Multi-Terrain Pattern
 nickname: British Multicam
 terrain: woodland

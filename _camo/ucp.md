@@ -1,5 +1,5 @@
 ---
-title:  UCP
+title: UCP
 fullname: Universal Camouflage Pattern
 nickname: ACUPAT
 terrain: desert

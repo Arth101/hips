@@ -1,5 +1,5 @@
 ---
-title:  ATACS-FG
+title: ATACS-FG
 fullname: Advanced Tactical Concealment System Foliage/Green
 terrain: woodland
 country: us

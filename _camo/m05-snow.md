@@ -1,5 +1,5 @@
 ---
-title:  "M05 Snow"
+title: M05 Snow
 terrain: Snow
 country: fi
 image: m05-snow.jpg

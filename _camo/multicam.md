@@ -1,5 +1,5 @@
 ---
-title:  MultiCam
+title: MultiCam
 nickname: Operation Enduring Freedom Camouflage Pattern (OEFCP)
 terrain: woodland
 country: us

@@ -1,5 +1,5 @@
 ---
-title:  MARPAT
+title: MARPAT
 fullname: Marine pattern
 nickname: Digital Woodland Camo
 terrain: woodland

@@ -1,5 +1,5 @@
 ---
-title:  MARPAT Desert
+title: MARPAT Desert
 nickname: Digital desert camo
 terrain: desert
 country: us

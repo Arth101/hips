@@ -1,5 +1,5 @@
 ---
-title:  "Tri-color-desert"
+title: Tri-color-desert
 nickname: coffee stain camouflage
 terrain: Desert
 country: us

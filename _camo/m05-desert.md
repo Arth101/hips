@@ -1,5 +1,5 @@
 ---
-title:  "M05 Desert"
+title: M05 Desert
 terrain: desert
 country: fi
 image: m05-desert.jpg

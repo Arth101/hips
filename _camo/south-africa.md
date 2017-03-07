@@ -1,5 +1,5 @@
 ---
-title:  South Africa
+title: South Africa
 terrain: woodland
 country: za
 image: south-africa.jpg
