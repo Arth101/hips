@@ -7,7 +7,7 @@ layout: base
   {% for camo in site.camo %}
 
       <div class="card">
-        <a href="/hips{{ camo.url }}">
+        <a href="{{ site.baseurl}}{{ camo.url }}">
           <div class="card-description">
             <h2>{{ camo.title }}</h2>
             <img class="flag" src="{{ site.baseurl}}/img/flags/{{ camo.country }}.svg" alt="{{ camo.country }} flag" />
