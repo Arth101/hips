@@ -1,5 +1,5 @@
 ---
-title: Afghan Forest pattern
+title: Afghan Forest
 fullname: HyperStealth Spec4ce Afghan Forest pattern
 terrain: woodland
 country: af
