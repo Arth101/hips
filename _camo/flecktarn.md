@@ -10,5 +10,6 @@ Flecktarn, meaning "mottled camouflage" in german and also known as Flecktarnmus
 
 The original German 5-color flecktarn has been adopted, copied and modified by many countries for their own camouflage patterns.
 
-##Sources
+Sources
+--------
 [Wikipedia](https://en.wikipedia.org/wiki/Flecktarn)

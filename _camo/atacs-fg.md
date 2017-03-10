@@ -10,5 +10,6 @@ A-TACS FG (Foliage/Green) Camo utilizes numerous shades of green sampled directl
 
 This pattern is commercial, and not used officially by any the military of any country.
 
-##Sources
+Sources
+---------
 [Camouflage Wiki](http://camouflage.wikia.com/wiki/A-TACS)

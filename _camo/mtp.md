@@ -13,5 +13,6 @@ Following an Urgent Operational Requirement for a camouflage uniform for the Afg
 
 The United Kingdom's Ministry of Defence announced that HM Forces would be issued with the new British Army uniform for operations in Afghanistan; initially issued to personnel deployed on Operation Herrick from March 2010, then issued more widely to HM Forces from 2011 onward replacing all DPM including Woodland and Desert variants of the Combat Soldier 95 uniform by 2013 alongside with the introduction of the new Personal Clothing System.
 
-##Sources:
+Sources
+-------
 [Wikipedia](https://en.wikipedia.org/wiki/Multi-Terrain_Pattern)

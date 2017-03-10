@@ -11,5 +11,6 @@ During the first Gulf War, clothing sets in this pattern were issued to US troop
 
 No night-specific pattern has been created to replace this gear for nighttime use in a desert environment, as advancements in infrared reflectance technology in first the Desert Camouflage Uniform, and finally the Marine Corps Combat Utility Uniform and Army Combat Uniform have eliminated the need for a separate nighttime overgarment.
 
-##Sources
+Sources
+------
 [Wikipedia](https://en.wikipedia.org/wiki/Desert_Night_Camouflage)

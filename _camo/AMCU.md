@@ -10,5 +10,6 @@ On 19 November 2010, after trials by Australian special operations forces, the A
 
 The Australian Army decided to standardize MultiCam-patterned uniforms starting in October 2014 called the Australian Multicam Camouflage Uniform (AMCU). The AMCU is manufactured domestically by Australian Defence Apparel and Pacific Brands Workwear Group and comes in two variations, field and combat, using a tested Australian Multi-Camouflage Pattern that can operate in bush, desert, and jungle conditions. Previous Disruptive Pattern Camouflage Uniforms and Australian MultiCam Pattern Operational Combat Uniforms will be worn until all Army personnel have been issued with the AMCU.
 
-##Sources
+Sources
+------
 [Wikipedia](https://en.wikipedia.org/wiki/MultiCam)

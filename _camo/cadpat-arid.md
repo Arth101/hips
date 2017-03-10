@@ -13,5 +13,6 @@ Canada's desire for a new soldier system dates back to November 1988 and closely
 
 Concurrent with the trials of CADPAT TW, work was carried out to identify a uniform for operations in desert, near desert, and savannah environmental conditions. This three-colour pattern, known as CADPAT arid regions (AR), incorporates three different colours of brown. The CADPAT design for arid regions has been approved, and the transfer of this digital technology is ongoing to the textiles industry. CADPAT AR also features two additional arm pockets and Velcro on the arms compared to the TW uniform. In light of the deployment of the Immediate Reaction Force to Afghanistan, the CADPAT AR project was expedited with the intent that it would be issued to soldiers in summer 2002.
 
-##Sources
+Sources
+------
 [Wikipedia](https://en.wikipedia.org/wiki/CADPAT)

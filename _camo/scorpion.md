@@ -12,5 +12,6 @@ The original Scorpion pattern was developed by a joint venture of the Army's Nat
 
 In early April 2015, Army Chief of Staff Ray Odierno revealed that OCP uniforms were beginning to be issued to deployed soldiers going to Afghanistan, Iraq, Europe, and the Horn of Africa. The OCP ACU became available for soldiers to purchase starting July 1, 2015.
 
-##Sources
+Sources
+-------
 [Wikipedia](https://en.wikipedia.org/wiki/Scorpion_W2)

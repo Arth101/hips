@@ -11,5 +11,6 @@ The Camouflage Europe Centrale is the standard camouflage pattern of the French 
 
 Camouflage Europe Centrale (CEC) was introduced in 1991, replacing both, TAP 47 pattern camouflage and khaki F2 uniform dresses. It is a four-colour pattern of woodland shapes optimised for French forests.
 
-##Sources
+Sources
+--------
 [Wikipedia](https://en.wikipedia.org/wiki/Camouflage_Europe_Centrale)

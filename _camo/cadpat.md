@@ -13,5 +13,6 @@ Canada's desire for a new soldier system dates back to November 1988 and closely
 
 CADPAT TW has four specific colours—light green, dark green, brown, and black—and was first introduced in 1996 on the helmet cover for the new CG634 helmet then coming into service. At the same time, the pattern was also introduced on a new soldier's individual camouflage net. The CADPAT TW uniform allows Canadian soldiers protection from observation by the naked eye and night vision devices.
 
-##Sources
+Sources
+-------
 [Wikipedia](https://en.wikipedia.org/wiki/CADPAT)

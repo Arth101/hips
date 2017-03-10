@@ -14,5 +14,6 @@ DPM has also been produced in black/white/grey Urban DPM, in various blue tones 
 
 DPM has been phased out in British military service, superseded by Multi-Terrain Pattern.
 
-##Sources
+Sources
+----------
 [Wikipedia](https://en.wikipedia.org/wiki/Disruptive_Pattern_Material)

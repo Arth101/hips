@@ -10,5 +10,6 @@ A-TACS AU (Arid/Urban) Camo utilizes numerous shades of tan sampled directly fro
 
 This pattern is commercial, and not used officially by any the military of any country.
 
-##Sources
+Sources
+--------
 [Camouflage Wiki](http://camouflage.wikia.com/wiki/A-TACS)
