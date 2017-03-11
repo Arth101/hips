@@ -1,6 +1,6 @@
 ---
 title: MultiCam Black
-terrain: woodland
+terrain: other
 country: us
 image: multicam-black.jpg
 cover: multicam-black-cover.jpg

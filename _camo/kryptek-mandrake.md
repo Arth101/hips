@@ -5,6 +5,16 @@ country: us
 image: kryptek-mandrake.jpg
 cover: kryptek-mandrake-cover.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Kryptek camouflage patterns are commercial patterns, often used by hunters. The patterns are not used officially by any the military branches.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+From Kryptek's webpage:
+
+"*Kryptek's battlefield DNA is evident in everything we do. We took what we learned in the most hostile combat environments and combined that knowledge with proven tactical gear concepts, tested it with top military professionals and hunters, and then customized every aspect to perform in all potential backcountry scenarios. Unlike traditional stick and leaf camouflage, Kryptek's design incorporates micro and macro layering inspired by artillery camouflage netting. This creates a 3D appearance on a 2D surface and near-invisibility. In fact, the Department of Defense used laser-retinal-tracking to prove it took subjects longer to locate people wearing Kryptek camouflage than any other, proving that Kryptek camo is the most effective camouflage available.This industry-leading camouflage is used in all of Kryptek’s adventure products, which are finished with the toughest zippers and bonded seams available. You get comfort, function, and performance that exceeds expectations in the most extreme environments. “Battlefield to Backcountry” aren’t just words, they are Kryptek.*"
+
+About the Mandrake pattern:
+
+"*Only the strong survive beneath the canopy where the shadows deepen and the surroundings are dense. Kryptek Mandrake is designed for those regions where success or survival depends on your ability to become one with your domain.*"
+
+Sources
+-------
+[Kryptek webpage](https://kryptek.com/kryptek-camo-patterns)
