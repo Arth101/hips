@@ -13,7 +13,7 @@ From Kryptek's webpage:
 
 About the Raid pattern:
 
-"*Created for those situations when the quarters are close and the jungle is urban. Kryptek RaidTM is the camo for finding that prey that lurks in the shadows of the streets.*"
+"*Created for those situations when the quarters are close and the jungle is urban. Kryptek Raid is the camo for finding that prey that lurks in the shadows of the streets.*"
 
 Sources
 -------

@@ -13,7 +13,7 @@ From Kryptek's webpage:
 
 About the Yeti pattern:
 
-"*When conditions worsen and the temperatures fall, when days are short and the shadows are long. Kryptek YetiTM provides concealment when cover is only found in subtle creases of the snow pack.*"
+"*When conditions worsen and the temperatures fall, when days are short and the shadows are long. Kryptek Yeti provides concealment when cover is only found in subtle creases of the snow pack.*"
 
 Sources
 -------
