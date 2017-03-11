@@ -4,6 +4,7 @@ nickname: Tiger Pattern
 terrain: woodland
 country: vn
 image: tigerstripe.jpg
+cover: tigerstripe-cover.jpg
 ---
 Tigerstripe is the name of a group of camouflage patterns developed for close-range use in dense jungle during jungle warfare by the South Vietnamese Armed Forces and adopted by US Special Forces during the Vietnam War. During and following the Vietnam war the pattern was adopted by several other Asian countries. It derives its name from its resemblance to a tiger's stripes and were simply called "tigers." It features narrow stripes that look like brush-strokes of green and brown, and broader brush-strokes of black printed over a lighter shade of olive or khaki. The brush-strokes interlock rather than overlap, as in French Lizard pattern (TAP47) from which it apparently derives. There are many variations; R.D. Johnson counted at least 19 different versions in early drafts of Tiger Patterns, his definitive work on the subject, although it is unclear if these are all different print patterns, or if they include color variations of a few different print patterns.
 

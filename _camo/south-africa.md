@@ -3,7 +3,10 @@ title: South Africa
 terrain: woodland
 country: za
 image: south-africa.jpg
+cover: south-africa-cover.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Tested and introduced between 1991 and 1993, the "Soldier 2000" camouflage design saw its first large scale issue to the SANDF in 1994. The pattern, developed by CSIR-Textile Technology group, features blotches of dark green, grass green & pale green with dark green & pale green spots on an earth brown field and is printed on a wide variety of uniform items as well as field equipment.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Sources
+-------
+[Camopedia](http://camopedia.org/index.php?title=South_Africa)

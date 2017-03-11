@@ -5,6 +5,11 @@ country: us
 image: multicam-arid.jpg
 cover: multicam-arid-cover.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+MultiCam Arid is a commercial pattern, designed for arid and dry areas.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+From the MultiCam website:
+"*The MultiCam Arid pattern was developed to effectively reduce the visual and near-IR signature of a person operating in desert environments that predominantly consist of open sand and rock. The MultiCam Arid palette compliments and overlaps portions of the main MultiCam pattern; so pairing MultiCam gear with MultiCam Arid apparel results in a well-coordinated concealment system.*"
+
+Sources
+-------
+[multicampattern.com](http://multicampattern.com)
