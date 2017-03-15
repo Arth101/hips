@@ -1,5 +1,5 @@
 ---
 layout: woodland
-title: About
+title: Woodland
 permalink: /woodland/
 ---
