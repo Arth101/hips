@@ -1,6 +1,7 @@
 ---
 title: Kryptek Altitude
 terrain: mountain
+family: kryptek
 country: us
 image: kryptek-altitude.jpg
 cover: kryptek-altitude-cover.jpg

@@ -1,7 +1,9 @@
 ---
-title: AMCU
-fullname: Australian Multicam Uniform
+title: AMP
+fullname: Australian MultiCam Pattern
+nickname: AMCU (Australian Multicam Uniform)
 terrain: woodland
+family: multicam
 country: au
 image: amcu.jpg
 cover: amcu-cover.jpg

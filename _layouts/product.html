@@ -19,6 +19,30 @@
         <div class="content">
           {{content}}
         </div>
+
+        {% if page.family %}
+        <div class="content">
+          <h2>Related Camouflage</h2>
+          <div class="related">
+            {% for camo in site.camo %}
+              {% if camo.family == page.family %}
+                <div class="card">
+                  <a href="{{ site.baseurl}}{{ camo.url }}">
+                    <div class="card-description">
+                      <h3>{{ camo.title }}</h3>
+                      <img class="flag" src="{{ site.baseurl}}/img/flags/{{ camo.country }}.svg" alt="{{ camo.country }} flag" />
+                    </div>
+                    <div class="card-title" style="background-image:linear-gradient( rgba(0, 0, 0, 0.9), rgba(240, 109, 6, 0) ), url('{{ site.baseurl }}/img/{{ camo.image }}')">
+                    </div>
+                  </a>
+                </div>
+              {% elsif camo.title == page.title %}
+              <p>hehe</p>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
       </div>
     </main>
     {% include footer.html %}

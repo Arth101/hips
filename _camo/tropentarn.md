@@ -1,6 +1,7 @@
 ---
 title: Tropentarn
 nickname: Wüstentarn, Desert flecktarn
+family: flecktarn
 terrain: desert
 country: de
 image: tropentarn.jpg

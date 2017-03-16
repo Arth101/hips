@@ -2,6 +2,7 @@
 title: Scorpion W2
 nickname: Operational Camouflage Pattern (OCP)
 terrain: woodland
+family: multicam
 country: us
 image: scorpion.jpg
 cover: scorpion-w2-cover.jpg

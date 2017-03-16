@@ -1,5 +1,6 @@
 ---
 title: Kryptek Typhon
+family: kryptek
 terrain: other
 country: us
 image: kryptek-typhoon.jpg

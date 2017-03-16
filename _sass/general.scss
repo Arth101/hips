@@ -39,6 +39,26 @@ main {
   flex: 1 0 auto;
 }
 
+h2 {
+  display: inline-block;
+  letter-spacing: 4px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: 'Source Code Pro', monospace;
+  font-size: 1.2em;
+  position: relative;
+  transform: rotate(1deg);
+  bottom: 6px;
+  background: black;
+  padding: 4px 15px;
+  &+p {
+    margin-top: 0;
+  }
+}
+p+h2 {
+  margin-top: 20px;
+}
+
 .catalog {
   display: flex;
   flex-direction: row;
@@ -51,6 +71,12 @@ main {
   max-width: 1000px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.related {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 footer {

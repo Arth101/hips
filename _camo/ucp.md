@@ -2,6 +2,7 @@
 title: UCP
 fullname: Universal Camouflage Pattern
 nickname: ACUPAT, digicam
+family: digital
 terrain: desert
 country: us
 image: ucp.jpg

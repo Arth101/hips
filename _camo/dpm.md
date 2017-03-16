@@ -2,6 +2,7 @@
 title: DPM
 fullname: Disruptive Pattern Material
 nickname: DPM-95
+family: dpm
 terrain: woodland
 country: gb
 image: dpm.jpg

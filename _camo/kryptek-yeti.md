@@ -1,5 +1,6 @@
 ---
 title: Kryptek Yeti
+family: kryptek
 terrain: snow
 country: us
 image: kryptek-yeti.jpg

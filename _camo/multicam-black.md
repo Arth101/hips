@@ -1,6 +1,7 @@
 ---
 title: MultiCam Black
 terrain: other
+family: multicam
 country: us
 image: multicam-black.jpg
 cover: multicam-black-cover.jpg

@@ -3,6 +3,7 @@ title: MTP
 fullname: Multi-Terrain Pattern
 nickname: British Multicam
 terrain: woodland
+family: multicam
 country: gb
 image: mtp.jpg
 cover: mtp-cover.jpg
