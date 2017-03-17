@@ -1,5 +1,6 @@
 ---
 title: Kryptek Nomad
+family: kryptek
 terrain: desert
 country: us
 image: kryptek-nomad.jpg

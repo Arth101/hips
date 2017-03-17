@@ -1,5 +1,6 @@
 ---
 title: Jeitai
+family: flecktarn
 terrain: Woodland
 country: jp
 image: jietai.jpg

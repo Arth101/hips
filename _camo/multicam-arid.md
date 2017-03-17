@@ -1,6 +1,7 @@
 ---
 title: MultiCam Arid
 terrain: desert
+family: multicam
 country: us
 image: multicam-arid.jpg
 cover: multicam-arid-cover.jpg

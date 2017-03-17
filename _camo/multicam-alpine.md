@@ -1,6 +1,7 @@
 ---
 title: MultiCam Alpine
 terrain: snow
+family: multicam
 country: us
 image: multicam-alpine.jpg
 cover: multicam-alpine-cover.jpg

@@ -1,5 +1,6 @@
 ---
 title: Kryptek Mandrake
+family: kryptek
 terrain: woodland
 country: us
 image: kryptek-mandrake.jpg

@@ -2,6 +2,7 @@
 title: CADPAT AR
 fullname: Canadian Disruptive Pattern Arid Regions
 nickname: CADPAT Arid
+family: digital
 terrain: desert
 country: ca
 image: cadpat-arid.jpg

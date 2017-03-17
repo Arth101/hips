@@ -2,21 +2,21 @@
   display: flex;
   position: relative;
   overflow: hidden;
-  margin: 2px;
-  width: calc(16.66% - 4px);
-  height: calc(16.66vw - 4px);
+  margin: 1px;
+  width: calc(16.66% - 2px);
+  height: calc(16.66vw - 2px);
   box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
   @media(max-width: 1200px) {
-    width: calc(20% - 4px);
-    height: calc(20vw - 4px);
+    width: calc(20% - 2px);
+    height: calc(20vw - 2px);
   }
   @media(max-width: 900px) {
-    width: calc(33.33% - 4px);
-    height: calc(33.33vw - 4px);
+    width: calc(33.33% - 2px);
+    height: calc(33.33vw - 2px);
   }
   @media(max-width: 600px) {
-    width: calc(50% - 4px);
-    height: calc(50vw - 4px);
+    width: calc(50% - 2px);
+    height: calc(50vw - 2px);
   }
 
   a {
@@ -35,7 +35,8 @@
     width: 100%;
     text-shadow: 1px 2px 13px black;
 
-    h2 {
+    h3 {
+      font-size: 1.5em;
       font-weight: 300;
       margin: 0;
       margin-bottom: 10px;
@@ -65,5 +66,30 @@
 
   .card-content {
     padding: 10px;
+  }
+}
+
+.related {
+  .card {
+    width: calc(20% - 2px);
+    height: calc(100px - 2px);
+    @media(max-width: 1200px) {
+      width: calc(25% - 2px);
+      height: calc(100px - 2px);
+    }
+    @media(max-width: 900px) {
+      width: calc(33.33% - 2px);
+      height: calc(100px - 2px);
+    }
+    @media(max-width: 600px) {
+      width: calc(50% - 2px);
+      height: calc(100px - 2px);
+    }
+    @media(max-width: 370px) {
+      height: calc(120px - 2px);
+    }
+    h3 {
+      font-size: 1.3em;
+    }
   }
 }

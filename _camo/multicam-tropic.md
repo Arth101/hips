@@ -1,6 +1,7 @@
 ---
 title: MultiCam Tropic
 terrain: woodland
+family: multicam
 country: us
 image: multicam-tropic.jpg
 cover: multicam-tropic-cover.jpg

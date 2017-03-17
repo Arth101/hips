@@ -2,6 +2,7 @@
 title: ESTDCU
 fullname: Estonian Digital Camouflage Uniform
 terrain: woodland
+family: digital
 country: ee
 image: estdcu.jpg
 cover: estdcu-cover.jpg

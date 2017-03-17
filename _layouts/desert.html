@@ -6,7 +6,11 @@ layout: base
 <section class="catalog">
 
   {% for camo in site.camo %}
-    {% include camo-card.html %}
-  {% endfor %}
+    {% if camo.terrain == "desert" %}
 
+      {% include camo-card.html %}
+
+      {% endif %}
+
+  {% endfor %}
 </section>

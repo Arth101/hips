@@ -2,6 +2,7 @@
 title: CADPAT TW
 fullname: Canadian Disruptive Pattern Temperate Woodland
 nickname: dessin de camouflage canadien, DcamC
+family: digital
 terrain: woodland
 country: ca
 image: cadpat.jpg

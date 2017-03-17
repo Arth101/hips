@@ -1,6 +1,7 @@
 ---
 title: Navy Type III
 nickname: AOR2
+family: digital
 terrain: woodland
 country: us
 image: aor2.jpg

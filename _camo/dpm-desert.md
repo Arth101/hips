@@ -1,6 +1,7 @@
 ---
 title: DPM Desert
 fullname: Disruptive Pattern Material Desert Variant
+family: dpm
 terrain: Desert
 country: gb
 image: dpm-desert.jpg

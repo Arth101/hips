@@ -1,5 +1,6 @@
 ---
 title: Kryptek Raid
+family: kryptek
 terrain: urban
 country: us
 image: kryptek-raid.jpg

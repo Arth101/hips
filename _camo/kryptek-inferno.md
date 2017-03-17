@@ -1,6 +1,7 @@
 ---
 title: Kryptek Inferno
 terrain: other
+family: kryptek
 country: us
 image: kryptek-inferno.jpg
 cover: kryptek-inferno-cover.jpg

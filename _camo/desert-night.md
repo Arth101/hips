@@ -1,6 +1,6 @@
 ---
 title: Desert Night Camouflage
-terrain: desert
+terrain: other
 country: us
 image: desert-night.jpg
 cover: desert-night-cover.jpg

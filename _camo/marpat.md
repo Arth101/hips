@@ -2,6 +2,7 @@
 title: MARPAT
 fullname: Marine pattern Woodland
 nickname: Digital Woodland Camo
+family: digital
 terrain: woodland
 country: us
 image: marpat.jpg

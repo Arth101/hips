@@ -1,6 +1,7 @@
 ---
 title: Kryptek Highlander
 terrain: woodland
+family: kryptek
 country: us
 image: kryptek-highlander.jpg
 cover: kryptek-highlander-cover.jpg

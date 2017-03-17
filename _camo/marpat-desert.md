@@ -2,6 +2,7 @@
 title: MARPAT Desert
 fullname: Marine pattern Desert
 nickname: Digital desert camo
+family: digital
 terrain: desert
 country: us
 image: marpat-desert.jpg

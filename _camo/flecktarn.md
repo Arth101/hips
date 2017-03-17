@@ -2,6 +2,7 @@
 title: Flecktarn
 nickname: Flecktarnmuster, Fleckentarn
 terrain: woodland
+family: flecktarn
 country: de
 image: flecktarn.jpg
 cover: flecktarn-cover.jpg

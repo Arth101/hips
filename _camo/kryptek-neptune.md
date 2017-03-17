@@ -1,5 +1,6 @@
 ---
 title: Kryptek Neptune
+family: kryptek
 terrain: water
 country: us
 image: kryptek-neptune.jpg
