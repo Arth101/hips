@@ -12,8 +12,9 @@
       opacity: 1;
     }
   }
+
   .cover {
-    height: 400px;
+    height: 100vh;
     width: 100%;
     background-size: cover;
     background-position: center 30%;
@@ -22,44 +23,70 @@
     justify-content: center;
     align-items: flex-end;
     padding-bottom: 85px;
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12), 0 3px 5px -1px rgba(0,0,0,0.3);
+
     @media(min-width: 601px) {
-      height: 500px;
+      height: 90vh;
     }
   }
-  header {
-    h1 {
-      font-size: 3em;
-      color: white;
-      text-shadow: 0px 0px 10px black;
-    }
-    h2 {
-      transform: rotate(1deg);
-      bottom: 0px;
-    }
-    h2+h2 {
-      transform: rotate(-1deg);
-      display: block;
-      top: 15px;
-    }
-  }
+
   .content {
-    a {
-      color: #46503C;
-      &:hover {
-        color: darken(#46503C, 10%);
-      }
-    }
     margin-top: 15px;
     padding: 50px;
     background-color: white;
     color: #222;
-    position: relative;
-    top: -60px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12), 0 3px 5px -1px rgba(0,0,0,0.3);
+
+    &:first-of-type {
+      margin-top: -200px;
+
+      @media(max-width: 767px) {
+        margin-top: -50vh;
+      }
+    }
+
     @media(max-width: 1100px) {
       max-width: 90%;
       padding: 20px 25px;
     }
-    & p:first-child:first-letter {
+
+    .post-header {
+      display: flex;
+      margin-bottom: 40px;
+
+      @media(max-width: 767px) {
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+    }
+
+    .post-headline {
+      h1 {
+        font-size: 3em;
+        margin: 0;
+      }
+    }
+
+    .post-camo-image {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border: 1px solid;
+      margin-right: 20px;
+    }
+
+    a {
+      color: $green;
+      &:hover {
+        color: darken($green, 10%);
+      }
+    }
+
+
+
+    .post-text-content p:first-child:first-letter {
       text-transform: uppercase;
       color: #46503C;
       float: left;
