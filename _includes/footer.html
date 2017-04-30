@@ -1,3 +1,14 @@
 <footer>
   Made by <a href="https://anders.fit/">Anders Enghøj</a>
 </footer>
+
+<script>
+  console.log("PLZ");
+  var modeBtn = document.querySelector(".js-toggle-mode");
+  modeBtn.addEventListener("click", toggleCardMode, false);
+
+  function toggleCardMode() {
+    var catalog = document.querySelector(".catalog");
+    catalog.classList.contains("simple") ? catalog.classList.remove("simple") : catalog.classList.add("simple");
+  };
+</script>

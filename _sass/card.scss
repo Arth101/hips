@@ -1,4 +1,4 @@
-$border-color: #e6ecf0;
+$border-color: #222;
 
 .card {
   background-color: white;
@@ -14,6 +14,7 @@ $border-color: #e6ecf0;
   @media(max-width: 1400px) {
     width: calc(33.333% - 8px);
   }
+
   @media(max-width: 1060px) {
     width: calc(50% - 8px);
   }
@@ -28,10 +29,11 @@ $border-color: #e6ecf0;
     z-index: 100;
     color: seagreen;
     background-color: #f5f8fa;
+  }
 
-    .card-img {
-      
-    }
+  .card-link {
+    width: 100%;
+    height: 100%;
   }
 
   .card-img {
@@ -96,6 +98,32 @@ $border-color: #e6ecf0;
     }
     h3 {
       font-size: 1.3em;
+    }
+  }
+}
+
+.simple {
+  .card {
+    width: calc(16.666% - 8px);
+
+    @media(max-width: 1400px) {
+      width: calc(20% - 8px);
+    }
+
+    @media(max-width: 1060px) {
+      width: calc(33.333% - 8px);
+    }
+
+    @media(max-width: 767px) {
+      width: calc(50% - 8px);
+    }
+
+    .card-link {
+      display: none;
+    }
+
+    .card-img {
+      width: 100%;
     }
   }
 }
