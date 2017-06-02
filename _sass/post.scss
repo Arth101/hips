@@ -28,6 +28,12 @@
     padding-bottom: 85px;
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.14), 0 1px 18px 0 rgba(0,0,0,0.12), 0 3px 5px -1px rgba(0,0,0,0.3);
     z-index: 1;
+
+    @media(max-width: 767px) {
+      height: 60vh;
+      background-attachment: local;
+      padding-bottom: 0;
+    }
   }
 
   .content {
@@ -104,11 +110,13 @@
 
     .post-text-content p:first-child:first-letter {
       text-transform: uppercase;
+      font-weight: bold;
       color: #46503C;
       float: left;
       font-size: 75px;
       line-height: 60px;
-      padding-right: 8px;
+      margin-right: 10px;
+      width: 100px;
     }
   }
 }
