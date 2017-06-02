@@ -1,11 +1,9 @@
 <div class="card">
-  <a href="{{ site.baseurl}}{{ camo.url }}">
+  <a href="{{ site.baseurl}}{{ camo.url }}" class="card-link">
     <img class="card-img" src="{{ site.baseurl }}/img/{{ camo.image }}" />
-  </a>
-  <a class="card-link" href="{{ site.baseurl}}{{ camo.url }}">
     <div class="card-description">
       <h3>{{ camo.title }}</h3>
-      <img class="flag" src="{{ site.baseurl}}/img/flags/{{ camo.country }}.svg" alt="{{ camo.country }} flag" />
     </div>
+    <img class="flag" src="{{ site.baseurl}}/img/flags/{{ camo.country }}.svg" alt="{{ camo.country }} flag" />
   </a>
 </div>

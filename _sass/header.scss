@@ -4,6 +4,13 @@
 // }
 
 header {
+  display: flex;
+  justify-content: center;
+
+  .logo-link {
+    display: flex;
+    flex-direction: column;
+  }
 
   &:not([class]) {
     padding: 40px;
