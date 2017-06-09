@@ -1,0 +1,82 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+p {
+  font-size: 1.3em;
+  line-height: 1.58;
+  @media(max-width: 600px) {
+    font-size: 1.1em;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  font-family: 'Source Sans Pro', sans-serif;
+  // background-color: #f5f8fa;
+  background-color: white;
+  // background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox='0 0 52 26' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%238e7a67' fill-opacity='0.1'%3E%3Cpath d='M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+main {
+  flex: 1 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.label-heading {
+  display: inline-block;
+  letter-spacing: 4px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: 'Source Code Pro', monospace;
+  font-size: 1.2em;
+  background: black;
+  padding: 4px 15px;
+}
+
+.catalog {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 10px 5px;
+}
+
+.content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.related {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-family: 'Source Code Pro', monospace;
+}

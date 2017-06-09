@@ -3,9 +3,9 @@
 
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400|Source+Sans+Pro:300,400,600,700');
 
-@import "variables";
-@import "general";
-@import "header";
-@import "card";
-@import "post";
-@import "sidebar";
+@import "0.settings.variables";
+@import "1.generic.general";
+@import "3.components.header";
+@import "3.components.card";
+@import "3.components.post";
+@import "3.components.sidebar";

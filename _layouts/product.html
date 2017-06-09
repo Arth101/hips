@@ -11,18 +11,28 @@
         </header>
         <div class="cover" style="background-image:linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5) ), url('{{ site.baseurl }}/img/{% if page.cover %}covers/{{ page.cover }}{% else %}{{ page.image }}{% endif %}')"></div>
         <section class="content">
-          <div class="post-header">
-            <img class="post-camo-image" src="{{ site.baseurl }}/img/{{ page.image }}" alt="" />
-            <div class="post-headline">
-              <h1>{{page.title}}</h1>
-              {% if page.fullname %}
-                <h2><span>{{page.fullname}}</span></h2>
-              {% endif %}
-              {% if page.nickname %}
-                <h2><span>AKA: {{page.nickname}}</span></h2>
-              {% endif %}
+          <h1 class="post-header">{{page.title}}</h1>
+          <aside class="info-box">
+            <div class="info-box__item">
+              <img class="post-camo-image" src="{{ site.baseurl }}/img/{{ page.image }}" alt="" />
             </div>
-          </div>
+            <div class="info-box__item">
+              <p class="info-box__label">Country of origin:</p>
+              <img class="info-box__flag" src="{{ site.baseurl}}/img/flags/{{ page.country }}.svg" alt="{{ page.country }} flag" />
+            </div>
+            {% if page.fullname %}
+            <div class="info-box__item">
+              <p class="info-box__label">Full Name:</p>
+              <p class="info-box__intel">{{page.fullname}}</p>
+            </div>
+            {% endif %}
+            {% if page.nickname %}
+            <div class="info-box__item">
+              <p class="info-box__label">Other names:</p>
+              <p class="info-box__intel">{{page.nickname}}</p>
+            </div>
+            {% endif %}
+          </aside>
           <div class="post-text-content">
             {{content}}
           </div>
