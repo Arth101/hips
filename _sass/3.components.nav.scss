@@ -1,0 +1,50 @@
+header {
+  &.standard-header {
+    background: black;
+    color: white;
+    padding: 15px;
+  }
+
+  h1 {
+    font-size: 1.2em;
+    margin: 0;
+    font-weight: 100;
+  }
+
+  &.post-header {
+    text-align: left;
+    padding: 10px 15px;
+    position: absolute;
+    z-index: 3;
+
+    h1 {
+      font-size: 2em;
+    }
+  }
+}
+
+nav {
+  display: flex;
+  background-color: #222;
+  color: white;
+  border-bottom: 2px solid $green;
+
+  @media(max-width: 767px) {
+    flex-direction: column;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 15px;
+    display: inline-block;
+
+    &.active {
+      background-color: $green;
+    }
+
+    &:hover {
+      background-color: darken($green, 20%);
+    }
+  }
+}

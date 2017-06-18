@@ -1,12 +1,20 @@
 ---
 layout: base
 ---
-{% include sidebar.html %}
 
-<section class="catalog simple">
+<div class="frontpage-background">
 
-  {% for camo in site.camo %}
-    {% include camo-card.html %}
-  {% endfor %}
+  <section class="jumbotron">
+      <h1>The Camouflage Zone</h1>
+      <p>A database of camouflage, commercial and official, old and the latest breakthroughs.</p>
+  </section>
 
-</section>
+  <section class="catalog simple">
+
+    {% for camo in site.camo %}
+      {% include camo-card.html %}
+    {% endfor %}
+
+  </section>
+
+</div>

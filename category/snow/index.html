@@ -1,16 +1,25 @@
 ---
 layout: base
 ---
-{% include sidebar.html %}
 
-<section class="catalog">
+<div class="frontpage-background">
 
-  {% for camo in site.camo %}
-    {% if camo.terrain == "snow" %}
+  <section class="jumbotron">
+      <h1>The Camouflage Zone</h1>
+      <p>A database of camouflage, commercial and official, old and the latest breakthroughs.</p>
+      <p>For Camouflage enthusiasts</p>
+  </section>
 
-      {% include camo-card.html %}
+  <section class="catalog">
 
-      {% endif %}
+    {% for camo in site.camo %}
+      {% if camo.terrain == "snow" %}
 
-  {% endfor %}
-</section>
+        {% include camo-card.html %}
+
+        {% endif %}
+
+    {% endfor %}
+  </section>
+
+</div>
