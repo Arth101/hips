@@ -5,22 +5,22 @@ $border-color: #222;
   display: flex;
   position: relative;
   overflow: hidden;
-  margin: 4px;
+  margin: 8px;
   border: 2px solid $border-color;
   transition: all 0.3s ease;
 
-  width: calc(20% - 8px);
+  width: calc(20% - 16px);
 
   @media(max-width: 1400px) {
-    width: calc(20% - 8px);
+    width: calc(20% - 16px);
   }
 
   @media(max-width: 1060px) {
-    width: calc(33.333% - 8px);
+    width: calc(33.333% - 16px);
   }
 
   @media(max-width: 767px) {
-    width: calc(100% - 8px);
+    width: calc(100% - 16px);
   }
 
   &:hover {
@@ -42,7 +42,6 @@ $border-color: #222;
     height: 10vw;
     min-height: 150px;
     object-fit: cover;
-    border-right: 1px solid $border-color;
     transition: all 0.3s ease;
 
     @media(max-width: 767px) {
