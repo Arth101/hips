@@ -84,16 +84,16 @@ $border-color: #222;
 
 .related {
   .card {
-    width: calc(50% - 8px);
+    width: calc(33.333% - 16px);
     @media(max-width: 1200px) {
-      width: calc(25% - 2px);
-      height: calc(100px - 2px);
+      width: calc(25% - 16px);
+      height: 100px;
     }
     @media(max-width: 676px) {
-      width: calc(100% - 8px);
+      width: calc(100% - 16px);
     }
     @media(max-width: 370px) {
-      height: calc(120px - 2px);
+      height: calc(120px - 16px);
     }
     h3 {
       font-size: 1.3em;
