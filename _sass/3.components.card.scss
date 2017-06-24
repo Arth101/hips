@@ -24,9 +24,7 @@ $border-color: #222;
   }
 
   &:hover {
-    // transform: scale(1.1);
     border-color: seagreen;
-    z-index: 100;
     color: seagreen;
     background-color: #f5f8fa;
   }

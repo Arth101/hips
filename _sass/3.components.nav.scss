@@ -28,9 +28,13 @@ nav {
   background-color: #222;
   color: white;
   border-bottom: 2px solid $green;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
 
   @media(max-width: 767px) {
-    flex-direction: column;
+    overflow: scroll;
+    white-space: nowrap;
   }
 
   a {
